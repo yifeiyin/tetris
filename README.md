@@ -1,18 +1,11 @@
-###Introduction
+### Introduction
 
-Simple tetris.
+Simple tetris game. 2016/07/16
 
-###Environment
+### Environment
 
 Build: Qt Creator
 
 System: macOS
 
-###Notice
-
-Header file "colorful.h" does not work at all in Windows.
-
-If you know how to print out colorful texts, please let me know.
-
-Thank you.
 
